@@ -22,7 +22,7 @@
 		"issues": "https://github.com/kdyby/annotations/issues"
 	},
 	"require": {
-		"php": "^7.1",
+		"php": "^7.1 || ^8.0",
 		"nette/di": "^3.0",
 		"nette/utils": "^2.4 || ^3.0",
 		"doctrine/annotations": "~1.6",
